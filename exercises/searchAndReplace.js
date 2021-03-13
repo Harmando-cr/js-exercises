@@ -17,6 +17,6 @@ function myReplace(str, before, after) {
     newStr.splice(position, 1, afterCased)
     
     return newStr.join(' ');
-    }
+}
 
 module.exports = myReplace
