@@ -14,8 +14,8 @@ function smallestCommons(arr) {
         if (divisibleByAll) {
             return i
         }
-        
     }
+    
     return arr;
 }
 

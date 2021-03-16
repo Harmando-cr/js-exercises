@@ -19,7 +19,6 @@ function sumPrimes(num) {
         if (isPrime(i)) {
             sum += i
         }
-        
     }
 
     return sum
